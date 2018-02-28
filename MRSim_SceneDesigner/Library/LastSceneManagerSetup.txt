@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene Designer/Scene_Designer.unity
+  isLoaded: 1
+  isActive: 1
